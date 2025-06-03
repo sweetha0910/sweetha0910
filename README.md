@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sweetha0910
-- 👀 I’m interested in the 
+- 👋 Hi there, I’m Sweetha 
 - 🌱 I’m currently learning data science with python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
